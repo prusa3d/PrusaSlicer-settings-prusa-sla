@@ -1,4 +1,5 @@
 min_slic3r_version = 2.8.0-alpha0
+1.0.12 Split Prusament Resin High Temperature into Amber and Black profiles with correct colors. Updated exposure times for the 0.1 mm layer.
 1.0.11 Added material profiles for Prusament Resin High Temperature. Fixed name of the Prusament Resin Impact65 Black @0.1 profile.
 1.0.10 Added material profiles for the Prusament Resin Model+. (6 new colors)
 1.0.9 Added material profiles for the Prusament Resin Model+. (7 new colors)
